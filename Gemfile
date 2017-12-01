@@ -9,7 +9,7 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 # Security Feature(It allows everyone to get in it)
-gem 'rack-cors'
+# gem 'rack-cors'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
